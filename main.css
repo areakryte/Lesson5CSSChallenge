@@ -1,0 +1,89 @@
+.navbar{
+	background-color: #778899;
+	width: 101%;
+	height: 60px;
+	margin: -10px -10px -10px -10px;
+	position: relative;
+}
+
+.content{
+	padding-top: 15px;
+	padding-right: 200px;
+	padding-left: 200px;
+}
+
+form{
+	margin-bottom: 30px;
+}
+
+.input-text{
+	position: relative;
+	float:  left;
+	font-family: 'Roboto', sans-serif;
+	width: 450px;
+	height: 28px;
+}
+
+.submit-button{
+	position: relative;
+	float: left;	
+	background-color: white;
+	border: solid;
+	border-color: grey;
+	border-width: 1px;
+	width: 30px;
+	height: 32px;
+}
+
+.navheader{
+	float: left;
+	font-family: 'Roboto', sans-serif;
+	font-size: 32px;
+	padding:10px 10px 10px 10px;
+}
+
+.navlink{
+	float:right;
+	font-family: 'Roboto', sans-serif;
+	padding: 10px 10px 10px 10px;
+	font-size: 32px;
+}
+
+.section-header{
+	padding-top: 15px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.section{
+	padding: 15px 10px 15px 10px;
+}
+
+.section-text{
+	padding: 5px 5px 5px 5px;
+}
+
+label{
+	font-family: 'Roboto', sans-serif;
+}
+
+.grey-text{
+	color: grey;
+}
+
+.blue-link{
+	color: blue;
+}
+
+button{
+	background-color: white;
+	height: 30px;
+	padding: 0px -5px 0px -5px;
+	border: solid;
+	border-color: grey;
+	border-width: 1px;
+}
+
+a{
+	text-decoration: none;
+}
